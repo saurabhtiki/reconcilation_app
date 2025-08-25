@@ -1,0 +1,8 @@
+[theme]
+primaryColor="#4081f9ff"
+backgroundColor="#ffffffff"
+secondaryBackgroundColor="#e6ecfaff"
+textColor="#262730"
+font="sans serif"
+dataframeHeaderBackgroundColor="#dfdfe1ff"
+baseFontSize = 16
